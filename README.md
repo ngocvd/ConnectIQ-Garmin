@@ -2,7 +2,9 @@
 
 
 Open Git Bash.
+
 CD projectname
+
 git init
 git add .
 git commit -m “First commit”
